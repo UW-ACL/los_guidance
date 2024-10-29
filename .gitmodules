@@ -1,0 +1,3 @@
+[submodule "los_guidance"]
+	path = los_guidance
+	url = git@github.com:haynec/los_guidance.git
