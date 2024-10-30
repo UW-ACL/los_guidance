@@ -141,7 +141,7 @@ You can also add the ```--plot``` flag to visualize the results, in which case t
 - ```constr_vio``` - plots the LoS constraint violation
 - ```control``` - plots the control inputs
 - ```losses``` - plots the components of the convex subproblems objective
-- ```state``` - plots the full state trajectory of the system
+- ```states``` - plots the full state trajectory of the system
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
