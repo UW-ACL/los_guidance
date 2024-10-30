@@ -89,6 +89,7 @@ These can be installed via conda or pip.
 1. Clone the repo
    ```sh
    git clone https://github.com/haynec/los_guidance.git
+   cd los_guidance
    ```
 2. Install environment packages (this will take about a minute or two):
    ```sh
