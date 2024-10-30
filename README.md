@@ -54,7 +54,8 @@
 <!--   </div> -->
 </div>
 
-[![Watch the video](figures/video_preview.png)](https://youtu.be/miYeYnfvZYs?si=aYggTma7bdm_umCP)
+## Teaser Video
+<a href="https://youtu.be/miYeYnfvZYs?si=aYggTma7bdm_umCP"><img src="figures/video_preview.png" width="500" alt="Watch the video"></a>
 
   <p align="left">
     Perception algorithms are ubiquitous in modern autonomy stacks, providing necessary environmental information to operate in the real world.
