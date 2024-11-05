@@ -111,7 +111,9 @@ These can be installed via conda or pip.
    Python = 3.11
 1. Clone the repo
    ```sh
-   git clone https://github.com/haynec/los_guidance.git
+   git clone https://github.com/UW-ACL/los_guidance.git
+   git submodule update --init --recursive
+   cd los_guidance/los_guidance
    ```
 2. Install environment packages:
    ```sh
